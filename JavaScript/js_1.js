@@ -2,18 +2,19 @@
 // http://stackoverflow.com/questions/8024149/is-it-possible-to-get-the-non-enumerable-inherited-property-names-of-an-object/8024294#8024294
 
 function getAllPropertyNames( obj ) {
-        var props = [];
+    var props = [];
 
-            do {
-                        Object.getOwnPropertyNames( obj ).forEach(function ( prop ) {
-                                        if ( props.indexOf( prop ) === -1 ) {
-                                                            print(prop);
-                                                            props.push( prop );
-                                                                        }
-                                                });
-                            } while ( obj = Object.getPrototypeOf( obj ) );
+    do {
+        Object.getOwnPropertyNames( obj ).forEach(function ( prop ) {
+            if ( props.indexOf( prop ) === -1 ) {
+                print(prop);
+                props.push( prop );
+            }
+        });
+    // Look up the PrototypeOf obj, looking up the attributes/methods of the "BaseClass" of the obj.
+    } while ( obj = Object.getPrototypeOf( obj ) );
 
-                return props;
+    return props;
 }
 
 var oo = {'key1': 'val1'};
