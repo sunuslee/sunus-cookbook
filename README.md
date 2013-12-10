@@ -28,4 +28,8 @@ A cookbook-style repo to save some tricks about coding skills i might use.
 
     Example: __JavaScript/js_1.js__
 
+###GIT
 
+1. Fetch often, rebase often, Careful with pull.
+
+    [__rebase is better than pull__](http://sunuslee.github.io/git-rebase-is-better-than-pull/)
