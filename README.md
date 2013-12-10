@@ -9,7 +9,13 @@ A cookbook-style repo to save some tricks about coding skills i might use.
 
    [__Linux 技巧：让进程在后台可靠运行的几种方法__](http://www.ibm.com/developerworks/cn/linux/l-cn-nohup/index.html)
 
-###Enacs
+###Python
+
+1. Writing C/C++ codes with Python.
+
+    __Python__/Python-and-C.md
+
+###Emacs
 1. Folding/Unfolding python code:
 
    [__Emacs wiki: HideShow__](http://www.emacswiki.org/emacs/HideShow)
