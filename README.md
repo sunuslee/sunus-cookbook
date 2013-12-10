@@ -28,7 +28,7 @@ A cookbook-style repo to save some tricks about coding skills i might use.
 
     Example: __JavaScript/js_1.js__
 
-###GIT
+###Git
 
 1. Fetch often, rebase often, Careful with pull.
 
