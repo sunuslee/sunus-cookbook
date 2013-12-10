@@ -13,7 +13,7 @@ A cookbook-style repo to save some tricks about coding skills i might use.
 
 1. Writing C/C++ codes with Python.
 
-    __Python__/Python-and-C.md
+    Python/Python-and-C.md
 
 ###Emacs
 1. Folding/Unfolding python code:
