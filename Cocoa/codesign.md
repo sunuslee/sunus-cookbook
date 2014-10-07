@@ -46,9 +46,10 @@ codesign --verify --verbose=4 bundle_name/framework_name
 
 
 ####Tips
-If possible, set xcode to __don't use codesign__
 
-instead using codesign and spctl tool to manually codesign the app.
+1. If possible, set xcode to __don't use codesign__ , instead using codesign and spctl tool to manually codesign the app.
+
+2. don't use codesign --deep option, codesign every framework/dylibs __separately__, from the inner part of every signle framework/dylibs to the bundle.app in the end.
 
 
 ####References
