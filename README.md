@@ -13,6 +13,11 @@ A cookbook-style repo to save some tricks about coding skills i might use.
 
     __Linux/Link_Non_System_SO.md__
 
+###Cocoa
+
+1. Codesign
+    __Cocoa/codesign.md__
+
 ###Python
 
 1. Writing C/C++ codes with Python.
