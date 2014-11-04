@@ -34,8 +34,10 @@ First, we need to define some basic rules to use kvc/kvo
 	to add __Object O__ , meaning allow __Object O__ to get noticed when a property at keyPath
 	gets changed.
 
-5. that's all we need to know. 
-
+5. Two references
+	* [Key-Value Coding Programming Guide](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/KeyValueCoding/Articles/KeyValueCoding.html#//apple_ref/doc/uid/10000107i) 
+	* [Key-Value Observing Programming Guide](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html#//apple_ref/doc/uid/10000177-BCICJDHA)
+6. that's all we need to know. 
 
 OK, next, i will show you how to you KVC/KVO by a simple example.
 
