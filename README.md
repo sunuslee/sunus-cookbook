@@ -18,6 +18,8 @@ A cookbook-style repo to save some tricks about coding skills i might use.
 1. Codesign
     __Cocoa/codesign.md__
 
+2. Key-Value Coding & Key-Value Observing
+
 ###Python
 
 1. Writing C/C++ codes with Python.
