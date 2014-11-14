@@ -3,6 +3,8 @@ sunus-cookbook
 
 A cookbook-style repo to save some tricks about coding skills i might use.
 
+I am now focus on Cocoa.
+
 ###Linux
 
 1. Several ways to put progress in background. (from IBM)
