@@ -3,7 +3,7 @@ sunus-cookbook
 
 A cookbook-style repo to save some tricks about coding skills i might use.
 
-I am now focus on Cocoa.
+I am now focus on Cocoa and iOS
 
 ###Linux
 
