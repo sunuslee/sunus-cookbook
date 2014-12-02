@@ -22,6 +22,10 @@ I am now focus on Cocoa and iOS
 
 2. Key-Value Coding & Key-Value Observing
 
+3. Share datas between Apps (iOS) [http://stackoverflow.com/questions/9425706/share-data-between-two-or-more-iphone-applications](http://stackoverflow.com/questions/9425706/share-data-between-two-or-more-iphone-applications)
+
+4. setFrame in viewDidLoad and layoutSubViews
+
 ###Python
 
 1. Writing C/C++ codes with Python.
