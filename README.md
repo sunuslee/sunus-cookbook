@@ -26,6 +26,10 @@ I am now focus on Cocoa and iOS
 
 4. setFrame in viewDidLoad and layoutSubViews
 
+###iOS
+
+1. UIViewController life cycle
+
 ###Python
 
 1. Writing C/C++ codes with Python.
