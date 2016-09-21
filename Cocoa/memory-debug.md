@@ -1,0 +1,2 @@
+##Link
+[https://stackoverflow.com/questions/14890402/instruments-allocations-track-alloc-and-dealloc-of-objects-of-user-defined-class/14891837#14891837](https://stackoverflow.com/questions/14890402/instruments-allocations-track-alloc-and-dealloc-of-objects-of-user-defined-class/14891837#14891837)
